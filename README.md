@@ -13,3 +13,7 @@ We asked Instagram for the data, which was released for the first time. Instagra
 ## Visualisation
 
 * Infographic: Brighton Pier in numbers
+
+## Related repositories
+
+* [#Christmas: The most festive cities on Instagram](https://github.com/BBC-Data-Unit/instagram-christmas)
